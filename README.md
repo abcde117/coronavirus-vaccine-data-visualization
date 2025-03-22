@@ -1,5 +1,6 @@
 # 1
-this is the code for my last year 未来創造pj 
+this is the code for my first year project 
+i processing some coronavirus data 
 
 using the data in the following url https://vaers.hhs.gov/data/datasets.html 
 
